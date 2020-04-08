@@ -11,10 +11,18 @@ Welcome to SmartWatch documentation!
    :caption: API and Usage
 
 .. toctree::
-    :caption: hellowork
+    :caption: SmartWatch
     :numbered:
 
-    hello/helloworld
+    pwatch_api/pwatch_api_button
+    pwatch_api/pwatch_api_acc
+    pwatch_api/pwatch_api_lcd
+    pwatch_api/pwatch_api_pmu
+    pwatch_api/pwatch_api_music
+    pwatch_api/pwatch_api_clock
+    pwatch_api/pwatch_api_timer
+    pwatch_api/pwatch_api_network
+    pwatch_api/pwatch_api_iot
 
 
 
